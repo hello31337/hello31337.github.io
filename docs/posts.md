@@ -1,7 +1,7 @@
 ---
 layout: list
 title: News
-menu: true
+menu: false
 order: 5
 ---
 
