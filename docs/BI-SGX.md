@@ -1,5 +1,5 @@
 ---
-title: BI-SGX
+title: BISGX
 menu: true
 order: 1
 ---
