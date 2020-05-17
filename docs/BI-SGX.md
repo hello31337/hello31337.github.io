@@ -1,5 +1,5 @@
 ---
-title: BISGX
+title: Introduction
 menu: true
 order: 1
 ---
