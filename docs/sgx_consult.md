@@ -12,7 +12,7 @@ Therefore, I started service to give SGX-related advice for developers who have 
 
 # How to cousult
 * [Twitter](https://twitter.com/dd_cliffford): Both reply and DM are welcome.
-* e-mail: asakurai☆mitou.org (☆->@)
+* e-mail: asakurai☆mitou●org (☆->@, ●->.)
 * Using Zoom: Please tell me you'd like to use Zoom meeting by Twitter or e-mail.
 
 
