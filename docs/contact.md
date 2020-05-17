@@ -1,7 +1,7 @@
 ---
 title: Contact
 menu: true
-order: 7
+order: 8
 ---
 
 This is a test message.
