@@ -302,11 +302,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
+ social:
 #   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+   links:
+     - https://twitter.com/dd_cliffford
+     - https://github.com/hello31337/BI-SGX
 
 
 # Other Plugins
