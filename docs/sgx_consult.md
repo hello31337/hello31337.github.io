@@ -4,7 +4,7 @@ menu: true
 order: 6
 ---
 
-BI-SGX the system to make developers avoid using SGXSDK, which results dramatic mitigation of burden for developers. However, it is still However, it is a firm fact that there are developers who have to develop SGX applications using SGXSDK.  
+BI-SGX the system to make developers avoid using SGXSDK, which results dramatic mitigation of burden for developers. However, it is a firm fact that there are developers who have to develop SGX applications using SGXSDK.  
 
 I understand your suffering. It is because I'm also the developer who have been suffered by SGXSDK. I don't want any more developers to be bothered by SGXSDK's heinous specifications.  
 
