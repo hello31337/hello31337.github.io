@@ -47,15 +47,15 @@ author:
   # twitter:             <username>
 
 # Add links to the sidebar.
-menu:
-  - title:             Hydejack
-    url:               /hydejack/
-  - title:             Hyde
-    url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+#menu:
+#  - title:             Hydejack
+#    url:               /hydejack/
+#  - title:             Hyde
+#    url:               /hyde/
+#  - title:             Documentation
+#    url:               /docs/
+#  - title:             About
+#    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -66,7 +66,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018. All rights reserved.
+copyright:             © 2020 Merryweather SC. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
