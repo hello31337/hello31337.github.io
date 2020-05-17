@@ -1,7 +1,7 @@
 ---
 title: BI-SGX
 menu: true
-order: 1
+order: 3
 ---
 
 This is a test message.
