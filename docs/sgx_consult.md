@@ -1,7 +1,7 @@
 ---
 title: Need help with SGX?
 menu: true
-order: 4
+order: 6
 ---
 
 This is a test message.

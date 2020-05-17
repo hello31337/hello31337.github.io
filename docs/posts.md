@@ -2,7 +2,7 @@
 layout: list
 title: News
 menu: true
-order: 6
+order: 5
 ---
 
 News list page.
