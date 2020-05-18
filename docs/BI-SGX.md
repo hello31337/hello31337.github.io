@@ -34,18 +34,33 @@ The grammar of Qliphoth is really clear like Python and Ruby. Qliphoth also prov
 ![photo](/assets/img/qli_ex.png)
 
 ## Protect output privacy
-Qliphoth is designed to solidly protect output privacy of secret data. When a code follows a protocol but output results which violates privacy, we say it violates output privacy; And such codes are called **semi-honest**.   
+Qliphoth is designed to solidly protect output privacy of secret data. When a code follows a protocol but output results which violates privacy, we say it violates output privacy; and such codes are called **semi-honest**.   
 
 For example, obtaining average of single value follows its protocol (the protocol means calculating average using provided function here), but it outputs the secret data itself.  
 
 Qliphoth prevents such semi-honest operation, therefore Qliphoth is secure language and suitable for cloud secret computing.
 
 ## Why you named "Qliphoth"?
+"Qliphoth" means "shell" in Hebrew. I compared the protection features of enclave to shell.
 
 # Protection against side-channel attacks
+One of major weakpoints of SGX-based systems is vulnerability against side-channel attacks. BI-SGX provides solid protection against controlled-channel attacks, the most powerful side-channel attack against SGX-based systems.
+
+Qliphoth codes are completely protected by enclave and BI-SGX interpreter processes in the grain of tokens extracted by lexer, therefore adversaries cannot infer secrets from BI-SGX by using controlled-channel attacks.
+
+![photo](/assets/img/CCA.png)
 
 # Deploy on your public cloud instance
+Of course, you can deploy and run BI-SGX on public cloud. As of 5/18/2020, Microsoft Azure, IBM Cloud, Alibaba Cloud, etc. provides SGX-enabled instances. Using these public clouds, you can construct more large-scale secret computation networks.  
+
+See [this page](https://github.com/ayeks/SGX-hardware#cloud-vendors) for more detailed SGX-capable public clouds.
 
 # Package image
+![photo](/assets/img/bi-sgx_pkg.png)
 
-# MITOU 2019, IPA
+# Awards
+## MITOU 2019, IPA
+BI-SGX project is adopted to MITOU 2019 sponsored by Information-technology Promotion Agency (IPA), Japan. See [here](https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_f-3.html) for detail (Japanese).
+
+## 58th SIGBIO outstanding presentation award
+Due to circumstanses, I published BI-SGX as "BV-SGX" for 58th SIGBIO, Japan. See [here](http://www.ipsj.or.jp/award/bio-award3.html) for detail (Japanese).
