@@ -13,5 +13,5 @@ Any contacts related with BI-SGX, SGX or myself like following are welcome:
 * Job/Task request for me
 
 ## Contact information
-* [Twitter](https://twitter.com/dd_cliffford): Both reply and DM are welcome.
-* e-mail: asakurai☆mitou●org (☆->@, ●->.)
+* [**Twitter**](https://twitter.com/dd_cliffford): Both reply and DM are welcome.
+* **e-mail**: asakurai☆mitou●org (☆->@, ●->.)
