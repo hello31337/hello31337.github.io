@@ -40,7 +40,7 @@ For example, obtaining average of single value follows its protocol (the protoco
 
 Qliphoth prevents such semi-honest operation, therefore Qliphoth is secure language and suitable for cloud secret computing.
 
-## What does "Qliphoth" means?
+## What does "Qliphoth" mean?
 "Qliphoth" means "shell" in Hebrew. I compared the protection features of enclave to shell.
 
 # Protection against side-channel attacks
