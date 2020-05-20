@@ -4,7 +4,7 @@ menu: true
 order: 7
 ---
 
-<font color="red">Notice: BI-SGX EC Shop is temporary closed. It will be re-opened after taking confirmation of belonging company.</font>
+<font color="red">Notice: BI-SGX EC Shop is temporary closed. It will be re-opened after taking confirmation of belonging company.</font>  
 
 Are you an enthusiast of BI-SGX?  
 Here is the official goods of BI-SGX and Qliphoth for you xD
