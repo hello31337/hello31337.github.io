@@ -32,7 +32,7 @@ tagline:               >
   Bioinformatic Interpreter on SGX-based Secure Computing Cloud
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [IntelSGX, BI-SGX, Qliphoth, Cloud, SecretComputation]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
