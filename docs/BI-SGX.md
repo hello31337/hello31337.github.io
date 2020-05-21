@@ -4,6 +4,8 @@ menu: true
 order: 1
 ---
 
+[Japanese](/docs/BI-SGX_ja.md)
+
 # Simple, Fast, Secure.
 BI-SGX is one of the most practical solutions for cloud secret computation. You can easily execute secret computation on cloud with utilizing fast processing speed and high security of Intel SGX.
 

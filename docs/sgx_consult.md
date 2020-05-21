@@ -4,6 +4,8 @@ menu: true
 order: 6
 ---
 
+[Japanese](/docs/sgx_consult_ja.md)
+
 BI-SGX is a system to make developers avoid using SGXSDK, which results dramatic mitigation of burden for developers. However, it is a firm fact that there are developers who have to develop SGX applications using SGXSDK.  
 
 I understand your suffering. It is because I'm also the developer who have been suffered by SGXSDK. I don't want any more developers to be bothered by SGXSDK's heinous specifications.  

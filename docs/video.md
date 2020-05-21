@@ -4,6 +4,8 @@ menu: true
 order: 3
 ---
 
+[Japanese](/docs/video_ja.md)
+
 # BI-SGX demo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kAdQoIaRBJA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

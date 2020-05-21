@@ -4,6 +4,8 @@ menu: true
 order: 7
 ---
 
+[Japanese](/docs/shop_ja.md)
+
 Are you an enthusiast of BI-SGX?  
 Here is the official goods of BI-SGX and Qliphoth for you xD
 
