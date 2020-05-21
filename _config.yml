@@ -25,7 +25,7 @@ title:                 BI-SGX
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   Analyzing, only better.
-  #  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+#  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
