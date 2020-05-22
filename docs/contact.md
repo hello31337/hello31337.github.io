@@ -4,7 +4,7 @@ menu: true
 order: 8
 ---
 
-[Japanese](/docs/contact_ja.md)
+[Japanese](/docs/contact_ja)
 
 Any contacts related with BI-SGX, SGX or myself like following are welcome:
 * Question about BI-SGX

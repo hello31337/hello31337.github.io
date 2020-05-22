@@ -1,10 +1,10 @@
----
+--
 title: Links
 menu: true
 order: 4
 ---
 
-[Japanese](/docs/links_ja.md)
+[Japanese](/docs/links_ja)
 
 
 * [BI-SGX GitHub Repository](https://github.com/hello31337/BI-SGX)
