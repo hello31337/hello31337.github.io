@@ -64,5 +64,8 @@ See [this page](https://github.com/ayeks/SGX-hardware#cloud-vendors) for more de
 ## MITOU 2019, IPA
 BI-SGX project is adopted to MITOU 2019 sponsored by Information-technology Promotion Agency (IPA), Japan. See [here](https://www.ipa.go.jp/jinzai/mitou/2019/gaiyou_f-3.html) for detail (Japanese).
 
+## Super creator of MITOU 2019, IPA
+In recognition of BI-SGX's contribution, I was selected as a Super Creator of MITOU 2019. See [here](https://www.ipa.go.jp/jinzai/mitou/2019/20200528.html) for detail.
+
 ## 58th SIGBIO outstanding presentation award
 Due to circumstanses, I published BI-SGX as "BV-SGX" for 58th SIGBIO, Japan. See [here](http://www.ipsj.or.jp/award/bio-award3.html) for detail (Japanese).
