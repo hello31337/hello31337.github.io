@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BI-SGX official website is now open!
+title: Remote attestation support report (6/11/2020)
 author: aos
 ---
 
