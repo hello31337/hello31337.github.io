@@ -1,6 +1,6 @@
 ---
 layout: post
-title: presentation at blockchain.tokyo online #4
+title: presentation at blockchain.tokyo online#4
 author: aos
 ---
 
